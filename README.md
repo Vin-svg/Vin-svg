@@ -61,13 +61,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="38" alt="selenium logo"  />
 </div>
 
-###
-
 <div align="center">
   <img height="119" src="https://custom-doodle.com/wp-content/uploads/doodle/bongo-cat-pixel/bongo-cat-pixel-doodle.gif"  />
 </div>
-
-###
 
 <br clear="both">
 <picture>
@@ -75,4 +71,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vin-svg/Vin-svg/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Vin-svg/Vin-svg/output/github-snake.svg" />
 </picture>
-###
+
