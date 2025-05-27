@@ -1,8 +1,12 @@
-<a href="https://wigle.net">
-<img border="0" src="https://wigle.net/bi/KJjGzzTmVik+iNcmrSVWNA.png">
-</a>
+<h2 align="left">Salut, je m'appelle Lieeexxx !<br>(https://vin-svg.github.io/Lieeexxx/ pour les curieux)</h2>
 
-<h2 align="left">Salut, je m'appelle Lieeexxx ! voici mes projects :</h2>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vin-svg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vin-svg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vin-svg&radius=16&theme=dracula&area=true&order=5&custom_title=(statistiques%20hors%20projects%20priv%C3%A9s)" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 
@@ -77,5 +81,14 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Vin-svg/Vin-svg/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
 ###
