@@ -1,9 +1,9 @@
-<h1 align="center">Salut, je m'appelle Lieeexxx !<br>(https://vin-svg.github.io/Lieeexxx/ pour les curieux)</h1>
+<h1 align="center">Salut, je m'appelle Lieeexxx !</h1>
 
 ###
 
 <div align="center">
-  <a href="www.youtube.com/@lieeexxx2638" target="_blank">
+  <a href="https://www.youtube.com/@lieeexxx2638" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
   <a href="https://x.com/NC_Meteo" target="_blank">
